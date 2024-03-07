@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAAAEAAAAIAAAAAAEAgAAAAAAAAQQAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Key">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAIAAAAAgAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rate">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hero" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAKAAAAAIAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hero_Manager" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Manager" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgICAgIACACAAgAAAAAAAAAAASAAAAAAAA=</HashCode>
+      <FileName>Game_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAUAAAAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Current_Record" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAAAACAgAAAAAAAIBAQQAAgAAAABEAgAAAoAAAA=</HashCode>
+      <FileName>Player_Current_Record.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Information" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAASQgAAAAA=</HashCode>
+      <FileName>Player_Information.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Manager" Collapsed="true">
+    <Position X="7.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAGAEAAIAAAAQAAAACAIAAABAACBAA=</HashCode>
+      <FileName>Player_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Record" Collapsed="true">
+    <Position X="9" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAAAAAAAAAAgAAAAAACAAAEAQCAAAQAAAA=</HashCode>
+      <FileName>Player_Record.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
